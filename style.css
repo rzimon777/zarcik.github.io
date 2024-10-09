@@ -1,0 +1,52 @@
+.baner{
+    background-color: aqua;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+.lewa{
+    background-color: bisque;
+    width: 25%;
+    height: 700px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.srodek{
+    background-color: blueviolet;
+    width: 50%;
+    height: 700px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.prawa{
+    background-color: thistle;
+    width: 25%;
+    height: 700px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.stopka{
+    background-color: chartreuse;
+    float: left;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+.wariat{
+    background-color: chocolate;
+    border-radius: 25px;
+
+}
+.wariat:hover{
+    background-color: black;
+    color: white;
+}
